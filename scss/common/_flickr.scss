@@ -1,0 +1,21 @@
+#flickr {
+    width: 100%;
+    padding: 100px 0px 100px 0px;
+    background-color: #eee;
+    .inner {
+        width: 1180px;
+        margin: 0 auto;
+        text-align: center;
+        a {
+            font-size: 50px;
+            font-weight: bold;
+            color: #0063db;
+            span {
+                color: #ff0084;
+            }
+        }
+        p {
+            font: bold 30px/1 "맑은 고딕";
+        }
+    }
+}
